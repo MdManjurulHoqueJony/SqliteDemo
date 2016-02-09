@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SqliteDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="add_user">Add User</string>
+    <string name="view_details">View Details</string>
+    <string name="query_hint">Enter the name and password</string>
+    <string name="get_details">Get Details</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
